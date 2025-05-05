@@ -1,1 +1,1 @@
-This is a project from kfu computer engineering students
+This is a project was made by kfu computer engineering students
